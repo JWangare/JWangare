@@ -9,13 +9,13 @@
 - Generate a weekly instagram story calender,featuring two daily story ideas for the next 7 days.One story should focus on creating personal conneections with my followers 
   and the other one being a more sales focused story subtly promoting my product or service.Make the story ideas quick and easy to create.Give me pointers on what visuals and 
   hooks to use for this idea.(Results were as below)
-Monday;-Morning vibes check-in – A quick selfie or short video sharing your mood and plans for the day.	Quote of the week – Share an inspiring or thought-provoking quote related to mindful living or growth.	Visuals: Candid photo/video, overlay text. Hook: "Monday mood: Feeling [adjective]. How are you feeling today?"
-Tuesday;-This or That poll – Ask followers to choose between two things (e.g., coffee vs. tea, gym vs. walk).	Behind-the-scenes – Show a part of your day that reflects personal growth or adventure.	Visuals: Poll sticker, engaging colors. Hook: "Help me decide! Which one are you picking?"
-Wednesday;-Q&A box: Get to know me – Encourage followers to ask you anything.	Personal mantra or habit – Share a simple mindful living tip.	Visuals: Selfie or casual background with text overlay. Hook: "Drop your questions! Let's chat."
-Thursday;-Throwback moment – A fun or meaningful past experience.	Book/podcast recommendation – Share something that inspired you recently.	Visuals: Old photo or video, text overlay. Hook: "Can’t believe this was [time ago]!"
-Friday;-Weekend plans poll – Let followers vote on fun activities.	Feature a location or experience – Promote a place you enjoyed visiting.	Visuals: Poll sticker, video clip or snapshot. Hook: "What’s your weekend vibe? Let’s vote!"
-Saturday;-Unfiltered moment – Share something real and relatable.	Self-care Saturday tip – A simple wellness or mindfulness tip.	Visuals: Casual snapshot or boomerang. Hook: "Keeping it real today. Who else relates?"
-Sunday;-Reflection & gratitude list – Share three things you’re grateful for.	Sneak peek into next week – Tease upcoming content.	Visuals: Handwritten note or aesthetic background. Hook: "Before the new week starts… here’s what I’m grateful for!"
+*Monday;-Morning vibes check-in – A quick selfie or short video sharing your mood and plans for the day.	Quote of the week – Share an inspiring or thought-provoking quote related to mindful living or growth.	Visuals: Candid photo/video, overlay text. Hook: "Monday mood: Feeling [adjective]. How are you feeling today?"
+*Tuesday;-This or That poll – Ask followers to choose between two things (e.g., coffee vs. tea, gym vs. walk).	Behind-the-scenes – Show a part of your day that reflects personal growth or adventure.	Visuals: Poll sticker, engaging colors. Hook: "Help me decide! Which one are you picking?"
+*Wednesday;-Q&A box: Get to know me – Encourage followers to ask you anything.	Personal mantra or habit – Share a simple mindful living tip.	Visuals: Selfie or casual background with text overlay. Hook: "Drop your questions! Let's chat."
+*Thursday;-Throwback moment – A fun or meaningful past experience.	Book/podcast recommendation – Share something that inspired you recently.	Visuals: Old photo or video, text overlay. Hook: "Can’t believe this was [time ago]!"
+*Friday;-Weekend plans poll – Let followers vote on fun activities.	Feature a location or experience – Promote a place you enjoyed visiting.	Visuals: Poll sticker, video clip or snapshot. Hook: "What’s your weekend vibe? Let’s vote!"
+*Saturday;-Unfiltered moment – Share something real and relatable.	Self-care Saturday tip – A simple wellness or mindfulness tip.	Visuals: Casual snapshot or boomerang. Hook: "Keeping it real today. Who else relates?"
+*Sunday;-Reflection & gratitude list – Share three things you’re grateful for.	Sneak peek into next week – Tease upcoming content.	Visuals: Handwritten note or aesthetic background. Hook: "Before the new week starts… here’s what I’m grateful for!"
 Pointers for Execution:
 -Use interactive elements like polls, Q&A stickers, and sliders to boost engagement.
 -Keep the branding subtle yet consistent by using similar colors, fonts, or templates.
